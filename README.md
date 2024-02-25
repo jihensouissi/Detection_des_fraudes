@@ -1,62 +1,68 @@
 Détection des fraudes 
-Dataset
-In this study, we have used an Auto Insurance Claim contains 1000 rows and 38 columns shape.
+Ensemble de données
+Dans cette étude, nous avons utilisé une réclamation d'assurance automobile contenant 1000 lignes et 38 colonnes.
 
-Column Name	Describe
 
-Policy_annual_premium	Amount of insured need to pay over the year
+Policy_annual_premium: Montant que l'assuré doit payer sur l'année
 
-Insured_zip	Insured number
+Insured_zip: Numéro de l'assuré
 
-Capital-gains	Profit on earns of the sales
+Capital-gains: Profit réalisé sur les ventes
 
-Capital-loss	Loss incurred
+Capital-loss: Pertes encourues
 
-Incident_hour of the day	Hour of the day incident occurred
+Incident_hour of the day: Heure à laquelle l'incident s'est produit
 
-Total claim amount	Total Amount of claims
+Total claim amount: Montant total des réclamations
 
-Injury claim	Amount of injury claims
+Injury claim: Montant des réclamations pour blessures
 
-Property claim	Amount of property claim
+Property claim: Montant des réclamations pour biens
 
-Vehicle claim	Amount of vehicle claim
+Vehicle claim: Montant des réclamations pour véhicules
 
-Policy_state	State of policy holder
+Policy_state: État du titulaire de la police
 
-Policy_csl	Combined single limit of policy
+Policy_csl: Limite unique combinée de la police
 
-Policy_deductable	Amount of first pay
+Policy_deductable: Montant du premier paiement
 
-Insured_sex	Gender
+Insured_sex: Genre
 
-Insured_hobbies	Hobby of insured
+Insured_hobbies: Loisir de l'assuré
 
-Incident_type	Type of incident occurred
+Incident_type: Type d'incident survenu
 
-Collision_type	Type of damaged parts
+Collision_type: Type de parties endommagées
 
-Incident_severity	Type of severity damaged
+Incident_severity: Type de gravité de l'incident
 
-Authorities contacted	Type of authorities has contacted on incident
+Authorities contacted: Type d'autorités contactées lors de l'incident
 
-Incident_state	State of incident
+Incident_state: État de l'incident
 
-Incident_city	City of incident
+Incident_city: Ville de l'incident
 
-Number of vehicle	Number of vehicle involved
+Number of vehicle: Nombre de véhicules impliqués
 
-Property damaged	Property damaged or not
+Property damaged: Dommages matériels ou non
 
-Bodily injuries	Number of bodily injured
+Bodily injuries: Nombre de blessures corporelles
 
-Witnesses	Number of witnesses
+Witnesses: Nombre de témoins
 
-Auto_year	Year of auto model
+Auto_year: Année du modèle auto
 
-Police_report	Available or not
+Police_report: Disponible ou non
 
-Auto_make	Fabrication of Auto
+Auto_make: Fabricant d'auto
 
-Auto_model	Auto model
+Auto_model: Modèle d'auto
+
+
+Methodologie : 
+Pour ce projet , la methodologie adoptée est CRISP-DM (Cross-Industry Standard Process for Data Mining). il s’agit d’une methodologie couramment utilisé pour les projets d’éxploitation de données et d’analyse predective Cette méthodologie est structurée en plusieurs phases, allant de la compréhension du domaine à la mise en œuvre des solutions, en passant par la préparation des données, la modélisation, l'évaluation et le déploiement.
+
+
+
 
